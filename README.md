@@ -27,3 +27,7 @@ How to Install
 --------------
 
 Install it on chrome from [here](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/edit-this-cookie/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
